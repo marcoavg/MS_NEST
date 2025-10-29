@@ -49,7 +49,7 @@ export class PaymentsService {
         let event: Stripe.Event;
         
         // test
-        //const endpointSecret = "whsec_t4cFlR7n3QkpNS5Is1ofnwBJIpGoTzmO";
+       
         // console.log(sig);
         try {
             
